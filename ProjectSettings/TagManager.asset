@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cage
+  - Card
+  - Choice1
+  - Choice2
+  - Choice3
+  - Choice4
+  - Choice5
+  - Choice6
+  - Stage6
+  - GrabObject
+  - dropPoint
+  - Pointer
+  - Soap
+  - Bandages
+  - Water
+  - Manager
+  - Betadine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Indicator
+  - Card
+  - 
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 335617895
+    locked: 0
+  - name: Pause
+    uniqueID: 3815872981
+    locked: 0

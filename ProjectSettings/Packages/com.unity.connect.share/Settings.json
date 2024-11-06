@@ -1,0 +1,26 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/famous/Downloads/Rabiesbuild_WebGL/Rabies_WebGL_20102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/17102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/08102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/06102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/05102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/04102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/02102024;C:/Users/famous/Downloads/Rabiesbuild_WebGL/26092024_noCompess;;\"}"
+            }
+        ]
+    }
+}

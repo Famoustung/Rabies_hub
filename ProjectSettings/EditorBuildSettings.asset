@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 8761a1e30eb8bb04e9b67e2be12d1e26
+  - enabled: 1
+    path: Assets/Scenes/Pretest&Posttest/Post-tests.unity
+    guid: e99245c270b5a4b4cb53fb0133349192
+  - enabled: 1
+    path: Assets/Scenes/Pretest&Posttest/Pre-tests.unity
+    guid: 860e6e72be9bc45448a82ffbdb3bdbf5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/StageSelections.unity
+    guid: 0ff888ad236b58d448f5064517028344
+  - enabled: 1
+    path: Assets/Scenes/Stage02 StageSterlization/Stage2_StageSterlization.unity
+    guid: 34654388bac754541aec82a51bfc0f1b
+  - enabled: 1
+    path: Assets/Scenes/Stage02 StageSterlization/Stage2_Level_1.unity
+    guid: e5637ea952277bf4fbd44438c442449b
+  - enabled: 1
+    path: Assets/Scenes/Stage02 StageSterlization/Stage2_Level_2.unity
+    guid: ebd443f6686ec6f4f8f51de3efd4f80a
+  - enabled: 1
+    path: Assets/Scenes/Stage6/Stage6.unity
+    guid: 89f3c5d6b4ee3334e881672dfa3d4aaa
+  - enabled: 1
+    path: Assets/Scenes/Stage03 StageDropDog/Stage3_StageDropDog.unity
+    guid: d138f002d01aefa4c932e6d035008464
+  - enabled: 1
+    path: Assets/Scenes/Stage03 StageDropDog/Stage3_StageShuffle.unity
+    guid: 9ddc45a5c0f19ff449b3a2102f592bd2
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Credit.unity
+    guid: 7304c7ed820caae48b13d0e833139cc6
+  - enabled: 1
+    path: Assets/Scenes/Stage01/Stage01.unity
+    guid: 0cf0ced9389ed72488ad48a1539ba00f
+  - enabled: 1
+    path: Assets/Scenes/Stage04/Stage04.unity
+    guid: 1df8ecbaf11f77b43b6046e4b4a3ee9e
+  - enabled: 1
+    path: Assets/Scenes/Stage05/Stage05.unity
+    guid: a0486fbcf2240e343a620b6154c126d8
+  - enabled: 1
+    path: Assets/Scenes/Stage05/Stage05_2.unity
+    guid: 77ce7127ff617b3429d158d9e848938b
+  - enabled: 1
+    path: Assets/Scenes/Stage03 StageDropDog/Stage3_StageDropDog.unity
+    guid: d138f002d01aefa4c932e6d035008464
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Ending.unity
+    guid: a21a079b27839b34c8039a2139aac8e4
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: fe6f680696edfc440933544967c559c0, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 634774b3d3807004292776347d31dfbf, type: 2}
